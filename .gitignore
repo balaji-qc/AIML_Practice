@@ -1,0 +1,35 @@
+# --- Virtual environment ---
+
+venvv/
+env/
+.venv/
+Lib/
+
+# --- Python cache ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# --- Django specific ---
+*.log
+media/
+staticfiles/
+
+# --- Environment variables ---
+.env
+*.env
+.env.*
+
+# --- IDE / Editor settings ---
+.vscode/
+.idea/
+
+# --- OS generated files ---
+.DS_Store
+Thumbs.db
+
+# --- Frontend builds (if any) ---
+node_modules/
+dist/
+build/
