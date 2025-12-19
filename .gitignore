@@ -1,6 +1,6 @@
 # --- Virtual environment ---
 
-venvv/
+venv/
 env/
 .venv/
 Lib/
